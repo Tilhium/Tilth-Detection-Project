@@ -1,0 +1,4 @@
+ultralytics==8.3.0
+opencv-python==4.10.0.84
+python-socketio[client]==5.11.4
+python-dotenv==1.0.1

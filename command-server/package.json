@@ -1,0 +1,15 @@
+{
+  "name": "command-server",
+  "version": "1.0.0",
+  "description": "Tilth-Detection Command Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}

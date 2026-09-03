@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Python / AI
+__pycache__/
+*.pt
+*.webm
+.env
+
+# Buildroot / QEMU
+*.ext2
+*.img
+bzImage
+buildroot-*/
+telemetri
+
+# React / Vite
+dist/
+dist-ssr/
